@@ -1,6 +1,3 @@
-//Name: Mihretab Meaza
-//Student number: 041106564
-
 package GroceryStore;
 
 import java.util.Scanner;
